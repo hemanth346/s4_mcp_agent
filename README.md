@@ -1,1 +1,1 @@
-# s4_mcp_agent
+Iterative Agent-based system using MCP server
